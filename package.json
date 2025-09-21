@@ -12,12 +12,12 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "prettier": "^3.3.3"
+    "prettier": "^3.6.2"
   },
   "dependencies": {
     "@filiptypjeu/streamlink": "^1.0.2",
-    "dotenv": "^16.4.5",
-    "express": "^4.21.2",
-    "helmet": "^7.1.0"
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0"
   }
 }
